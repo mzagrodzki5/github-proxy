@@ -1,6 +1,6 @@
-package com.example.demo;
+package com.example.githubproxy;
 
-import com.example.demo.dto.RepositoryResponse;
+import com.example.githubproxy.dto.RepositoryResponse;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RequestMapping;

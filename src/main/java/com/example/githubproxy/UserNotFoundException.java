@@ -1,4 +1,4 @@
-package com.example.demo;
+package com.example.githubproxy;
 
 public class UserNotFoundException extends RuntimeException {
     public UserNotFoundException(String message) {

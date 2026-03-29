@@ -1,8 +1,8 @@
-package com.example.demo;
+package com.example.githubproxy;
 
-import com.example.demo.dto.Branch;
-import com.example.demo.dto.Owner;
-import com.example.demo.dto.RepositoryResponse;
+import com.example.githubproxy.dto.Branch;
+import com.example.githubproxy.dto.Owner;
+import com.example.githubproxy.dto.RepositoryResponse;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

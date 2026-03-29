@@ -1,9 +1,8 @@
-package com.example.demo;
+package com.example.githubproxy;
 
-import com.example.demo.dto.GitHubBranchResponse;
-import com.example.demo.dto.GitHubRepoResponse;
+import com.example.githubproxy.dto.GitHubBranchResponse;
+import com.example.githubproxy.dto.GitHubRepoResponse;
 import org.springframework.core.ParameterizedTypeReference;
-import org.springframework.http.HttpStatusCode;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestClient;
 

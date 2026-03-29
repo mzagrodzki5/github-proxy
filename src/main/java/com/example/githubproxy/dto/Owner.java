@@ -1,3 +1,3 @@
-package com.example.demo.dto;
+package com.example.githubproxy.dto;
 
 public record Owner(String login) {}
